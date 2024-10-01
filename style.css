@@ -202,7 +202,7 @@ nav a{
   }
   
   label[for*='3']:before {
-    content: '\f013';
+    content: '\f11b';
   }
   
   label[for*='4']:before {
