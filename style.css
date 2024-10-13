@@ -465,13 +465,13 @@ nav a{
 /* Media Queries */
 @media (max-width: 768px) { /* Tablets */
   .slide-in {
-      font-size: 1.5rem; /* Smaller font size */
+      font-size: 2rem; /* Smaller font size */
   }
 }
 
 @media (max-width: 480px) { /* Android and smaller screens */
   .slide-in {
-      font-size: 1rem; /* Even smaller font size */
+      font-size: 1.5rem; /* Even smaller font size */
   }
 }
 
